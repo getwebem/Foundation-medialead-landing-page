@@ -1,8 +1,9 @@
 body{
 	background:#f4f4f4;
 }
-.para {
+.about-footer {
   text-align: justify;
+    margin: 50px 0 100px 0px;
 }
 
 .header{
@@ -37,7 +38,7 @@ body{
 
 .boxes{
 	text-align: center;
-    padding: 45px 0;
+    padding: 60px 0 200px 0;
 }
 
 .boxes i {
@@ -58,15 +59,13 @@ footer{
 	text-align: center;
 	height:80px;
 	padding-top:30px;
-     position: relative;
-   bottom: 0px;
-   width: 100%;
+
 }
 .services-footer{
-    margin-bottom: 150px;
+    margin:60px 0 200px 0;
 }
 .contact-footer{
-    margin-bottom: 310px;
+    margin:60px 0 400px 0;
 }
 .margin-bottom{
 	margin-bottom:20px;
